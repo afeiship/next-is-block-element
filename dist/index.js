@@ -3,7 +3,7 @@
  * description: Check element if is block element.
  * homepage: https://github.com/afeiship/next-is-block-element
  * version: 1.0.0
- * date: 2021-02-08 12:21:57
+ * date: 2021-02-08 12:24:30
  * license: MIT
  */
 
